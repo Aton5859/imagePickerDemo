@@ -8,7 +8,7 @@
 
     2、复制该文件并删除，新建multiimagechooser_strings_cn.xml文件，并将描述文件改为中文，保存后在plugin.xml文件中将其引用更新。
 
-具体可看简述地址：https://www.jianshu.com/p/661ed4466dea
+具体可看简书地址：https://www.jianshu.com/p/661ed4466dea（非原创，感谢大神分享）
 
 #### 注意事项：
 
